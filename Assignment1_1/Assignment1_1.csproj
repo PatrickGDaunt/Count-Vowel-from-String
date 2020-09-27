@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Include="D:\Documents\Courses\Durham College - c4v\c#\PatrickDaunt_Assignment1_1.cs" Link="PatrickDaunt_Assignment1_1.cs" />
+  </ItemGroup>
+
+</Project>
